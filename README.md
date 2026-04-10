@@ -114,6 +114,4 @@ No environment variables or backend required. The contact form currently does no
 
 ---
 
-## License
 
-MIT
